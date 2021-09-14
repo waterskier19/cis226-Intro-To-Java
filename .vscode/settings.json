@@ -1,22 +1,28 @@
 {
-    "java.project.sourcePaths": [
-        "Chapter_3/Example3_7",
-        "Chapter_3/Example3_6",
-        "Chapter_3/Example3_5",
-        "Chapter_3/Example3_4",
-        "Chapter_3/Example3_2",
-        "Chapter_3/Example3_12",
-        "Chapter_3/Example3_1",
-        "Chapter_2/example2-3",
-        "Chapter_2/example2-2",
-        "Chapter_2/Example2_8",
-        "Chapter_2/Example2_7",
-        "Chapter_2/Example2_26",
-        "Chapter_2/Example2_17",
-        "Chapter_2/Example2_16",
-        "Chapter_2/Example2_13",
-        "Chapter_2/Example2_10",
-        "Chapter_2/ASimpleJavaProgram",
-        "Chapter_3/Example3_15"
-    ]
+  "java.project.sourcePaths": [
+    "Chapter_4/Example4_7",
+    "Chapter_4/Example4_5",
+    "Chapter_4/Example4_23",
+    "Chapter_4/Example4_21",
+    "Chapter_4/Example4_12",
+    "Chapter_3/Example3_7",
+    "Chapter_3/Example3_6",
+    "Chapter_3/Example3_5",
+    "Chapter_3/Example3_4",
+    "Chapter_3/Example3_2",
+    "Chapter_3/Example3_15",
+    "Chapter_3/Example3_12",
+    "Chapter_3/Example3_1",
+    "Chapter_2/example2-3",
+    "Chapter_2/example2-2",
+    "Chapter_2/Example2_8",
+    "Chapter_2/Example2_7",
+    "Chapter_2/Example2_26",
+    "Chapter_2/Example2_17",
+    "Chapter_2/Example2_16",
+    "Chapter_2/Example2_13",
+    "Chapter_2/Example2_10",
+    "Chapter_2/ASimpleJavaProgram",
+    "Chapter_4/Example4_24"
+  ]
 }
